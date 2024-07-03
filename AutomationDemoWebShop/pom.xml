@@ -48,6 +48,12 @@
 			<version>5.2.5</version>
 		</dependency>
 		
+		  <dependency>
+      <groupId>com.aventstack</groupId>
+      <artifactId>extentreports</artifactId>
+      <version>5.0.6</version>
+  </dependency>
+		
 	</dependencies> 
  
 </project>
